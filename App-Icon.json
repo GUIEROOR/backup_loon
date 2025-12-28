@@ -1,0 +1,1250 @@
+{
+    "name": "App Icons",
+    "description": "sooyaaabo（恩秀）",
+    "icons": [
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-TieTie.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-TestFlight.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-Light-BB-01.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-Light-BB-02.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-Light-BB-03.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-Dark-BB-01.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-Dark-BB-02.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Loon-Dark-BB-03.png"
+        },
+        {
+            "name": "LoonLite",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LoonLite.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LoonForMac.png"
+        },
+        {
+            "name": "QuantumultX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QuantumultX-01.png"
+        },
+        {
+            "name": "QuantumultX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QuantumultX-02.png"
+        },
+        {
+            "name": "QuantumultX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QuantumultX-03.png"
+        },
+        {
+            "name": "QuantumultX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QuantumultX-04.png"
+        },
+        {
+            "name": "Quantumult",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Quantumult.png"
+        },
+        {
+            "name": "Sing-Box",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Sing-Box.png"
+        },
+        {
+            "name": "Stash",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Stash.png"
+        },
+        {
+            "name": "Surge",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Surge.png"
+        },
+        {
+            "name": "Shadowrocket",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Shadowrocket.png"
+        },
+        {
+            "name": "Egern",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Egern-01.png"
+        },
+        {
+            "name": "Egern",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Egern-02.png"
+        },
+        {
+            "name": "Pharos Pro",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/PharosPro.png"
+        },
+        {
+            "name": "Hiddify",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Hiddify-Blue.png"
+        },
+        {
+            "name": "Hiddify",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Hiddify-Red.png"
+        },
+        {
+            "name": "Hiddify",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Hiddify-Yellow.png"
+        },
+        {
+            "name": "Hiddify",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Hiddify-Green.png"
+        },
+        {
+            "name": "v2rayN",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/v2rayN-Blue.png"
+        },
+        {
+            "name": "v2rayN",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/v2rayN-Red.png"
+        },
+        {
+            "name": "v2rayN",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/v2rayN-Purple.png"
+        },
+        {
+            "name": "ClashMeta",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ClashMeta.png"
+        },
+        {
+            "name": "ClashX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ClashX-01.png"
+        },
+        {
+            "name": "ClashX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ClashX-02.png"
+        },
+        {
+            "name": "ClashMi",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ClashMi.png"
+        },
+        {
+            "name": "Surfboard",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Surfboard.png"
+        },
+        {
+            "name": "IPPure",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/IPPure.png"
+        },
+        {
+            "name": "1.1.1.1",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/1.1.1.1-01.png"
+        },
+        {
+            "name": "1.1.1.1",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/1.1.1.1-02.png"
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Cloudflare.png"
+        },
+        {
+            "name": "TencentAd",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TencentAd.png"
+        },
+        {
+            "name": "LinuxDo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LinuxDo.png"
+        },
+        {
+            "name": "NodeSeek",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/NodeSeek.png"
+        },
+        {
+            "name": "V2EX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/V2EX-01.png"
+        },
+        {
+            "name": "V2EX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/V2EX-02.png"
+        },
+        {
+            "name": "V2EX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/V2EX-03.png"
+        },
+        {
+            "name": "iBetame",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iBetame.png"
+        },
+        {
+            "name": "i4Tools",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/i4Tools.png"
+        },
+        {
+            "name": "ooapps",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ooapps.png"
+        },
+        {
+            "name": "AppStore",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AppStore-01.png"
+        },
+        {
+            "name": "AppStore",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AppStore-02.png"
+        },
+        {
+            "name": "iAppStore",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iAppStore-01.png"
+        },
+        {
+            "name": "iAppStore",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iAppStore-02.png"
+        },
+        {
+            "name": "iAppStore",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iAppStore-03.png"
+        },
+        {
+            "name": "Asspp",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Asspp.png"
+        },
+        {
+            "name": "TestFlight",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TestFlight-01.png"
+        },
+        {
+            "name": "TestFlight",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TestFlight-02.png"
+        },
+        {
+            "name": "TestFlight",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TestFlight-03.png"
+        },
+        {
+            "name": "TestFlight",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TestFlight-04.png"
+        },
+        {
+            "name": "AppleWeather",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AppleWeather.png"
+        },
+        {
+            "name": "AppleSiri",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AppleSiri.png"
+        },
+        {
+            "name": "AppleIntelligence",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AppleIntelligence.png"
+        },
+        {
+            "name": "ChinaMobile CMCC",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ChinaMobile.png"
+        },
+        {
+            "name": "ChinaTelecom CTCC",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ChinaTelecom.png"
+        },
+        {
+            "name": "ChinaUnicom CUCC",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ChinaUnicom.png"
+        },
+        {
+            "name": "ChinaBroadnet CBN",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ChinaBroadnet.png"
+        },
+        {
+            "name": "giffgaff",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/giffgaff.png"
+        },
+        {
+            "name": "QQ",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QQ.png"
+        },
+        {
+            "name": "WeChat Weixin",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/WeChat.png"
+        },
+        {
+            "name": "DingTalk Dingding",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/DingTalk.png"
+        },
+        {
+            "name": "Feishu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Feishu.png"
+        },
+        {
+            "name": "TikTok Douyin",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TikTok-01.png"
+        },
+        {
+            "name": "TikTok Douyin",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TikTok-02.png"
+        },
+        {
+            "name": "Kwai Kuaishou",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Kwai.png"
+        },
+        {
+            "name": "Alipan Aliyunpan AliyunDrive",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Alipan-01.png"
+        },
+        {
+            "name": "Alipan Aliyunpan AliyunDrive",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Alipan-02.png"
+        },
+        {
+            "name": "BaiduNetDisk",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BaiduNetDisk.png"
+        },
+        {
+            "name": "QuarkPan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QuarkPan.png"
+        },
+        {
+            "name": "UCDrive",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/UCDrive.png"
+        },
+        {
+            "name": "123Pan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/123Pan-01.png"
+        },
+        {
+            "name": "123Pan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/123Pan-02.png"
+        },
+        {
+            "name": "115NetDisk",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/115NetDisk-01.png"
+        },
+        {
+            "name": "115NetDisk",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/115NetDisk-02.png"
+        },
+        {
+            "name": "ThunderCloudDisk Xunlei",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ThunderCloudDisk.png"
+        },
+        {
+            "name": "FeijiPan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/FeijiPan.png"
+        },
+        {
+            "name": "CtfileDrive",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/CtfileDrive.png"
+        },
+        {
+            "name": "PikPak",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/PikPak.png"
+        },
+        {
+            "name": "GoogleDrive",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GoogleDrive.png"
+        },
+        {
+            "name": "MicrosoftOneDrive",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MicrosoftOneDrive.png"
+        },
+        {
+            "name": "fnOS",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/fnOS.png"
+        },
+        {
+            "name": "Amap Gaode",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Amap.png"
+        },
+        {
+            "name": "Railway12306",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Railway12306.png"
+        },
+        {
+            "name": "Umetrip",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Umetrip.png"
+        },
+        {
+            "name": "DiDi",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/DiDi.png"
+        },
+        {
+            "name": "Weibo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Weibo.png"
+        },
+        {
+            "name": "Weibo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Weibo_intl.png"
+        },
+        {
+            "name": "VVebo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/VVebo.png"
+        },
+        {
+            "name": "RedNote RedBook RedPaper Xiaohongshu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/RedNote.png"
+        },
+        {
+            "name": "Alipay Zhifubao",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Alipay.png"
+        },
+        {
+            "name": "Taobao",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Taobao.png"
+        },
+        {
+            "name": "Goofish Xianyu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Goofish.png"
+        },
+        {
+            "name": "Jingdong",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Jingdong.png"
+        },
+        {
+            "name": "Pinduoduo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Pinduoduo.png"
+        },
+        {
+            "name": "Dewu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Dewu.png"
+        },
+        {
+            "name": "Shihuo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Shihuo.png"
+        },
+        {
+            "name": "Cainiao",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Cainiao.png"
+        },
+        {
+            "name": "Meituan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Meituan.png"
+        },
+        {
+            "name": "MeituanWaimai",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MeituanTakeaway.png"
+        },
+        {
+            "name": "Eleme",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Eleme.png"
+        },
+        {
+            "name": "JingdongWaimai",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/JingdongWaimai.png"
+        },
+        {
+            "name": "Taopiaopiao",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Taopiaopiao.png"
+        },
+        {
+            "name": "Maoyan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Maoyan.png"
+        },
+        {
+            "name": "Damai",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Damai.png"
+        },
+        {
+            "name": "DazhongDianping",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Dianping.png"
+        },
+        {
+            "name": "Dingdongmaicai",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Dingdongmaicai.png"
+        },
+        {
+            "name": "TaobaoTravel Feizhu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TaobaoTravel.png"
+        },
+        {
+            "name": "QunarTravel",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QunarTravel.png"
+        },
+        {
+            "name": "CtripTravel Xiecheng",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/CtripTravel.png"
+        },
+        {
+            "name": "TongchengTravel",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TongchengTravel.png"
+        },
+        {
+            "name": "TuniuTravel",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TuniuTravel.png"
+        },
+        {
+            "name": "Mafengwo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Mafengwo.png"
+        },
+        {
+            "name": "58Tongcheng",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/58Tongcheng.png"
+        },
+        {
+            "name": "Xiaoheihe",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Xiaoheihe.png"
+        },
+        {
+            "name": "miHoYoBBS",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/miHoYoBBS.png"
+        },
+        {
+            "name": "GP_GameHelper",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GP_GameHelper.png"
+        },
+        {
+            "name": "HOK_GameHelper",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/HOK_GameHelper.png"
+        },
+        {
+            "name": "LOL_Bible",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LOL_Bible.png"
+        },
+        {
+            "name": "WPS Office",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/WPS_Office.png"
+        },
+        {
+            "name": "KDocs",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/KDocs.png"
+        },
+        {
+            "name": "TencentDocs",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TencentDocs.png"
+        },
+        {
+            "name": "Evernote",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Evernote.png"
+        },
+        {
+            "name": "Verse",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Verse.png"
+        },
+        {
+            "name": "FlowUs",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/FlowUs.png"
+        },
+        {
+            "name": "Shimo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Shimo.png"
+        },
+        {
+            "name": "Wolai",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Wolai.png"
+        },
+        {
+            "name": "Mubu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Mubu.png"
+        },
+        {
+            "name": "Notion",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Notion.png"
+        },
+        {
+            "name": "Obsidian",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Obsidian.png"
+        },
+        {
+            "name": "Fenbi",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Fenbi.png"
+        },
+        {
+            "name": "iCost",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iCost.png"
+        },
+        {
+            "name": "SparkMail",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/SparkMail-01.png"
+        },
+        {
+            "name": "SparkMail",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/SparkMail-02.png"
+        },
+        {
+            "name": "NotionMail",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/NotionMail.png"
+        },
+        {
+            "name": "AppRaven",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AppRaven.png"
+        },
+        {
+            "name": "QQMusic",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QQMusic.png"
+        },
+        {
+            "name": "NeteaseMusic",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/NeteaseMusic.png"
+        },
+        {
+            "name": "SodaMusic",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/SodaMusic.png"
+        },
+        {
+            "name": "BodianMusic",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BodianMusic.png"
+        },
+        {
+            "name": "KuwoMusic",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/KuwoMusic.png"
+        },
+        {
+            "name": "Ximalaya",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Ximalaya.png"
+        },
+        {
+            "name": "CosmosFM Xiaoyuzhou",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/CosmosFM.png"
+        },
+        {
+            "name": "LEMOFM",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LEMOFM.png"
+        },
+        {
+            "name": "LMP",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LMP.png"
+        },
+        {
+            "name": "LightPlayer",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LightPlayer.png"
+        },
+        {
+            "name": "Listenify",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Listenify.png"
+        },
+        {
+            "name": "PureMusic",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/PureMusic.png"
+        },
+        {
+            "name": "TencentVideo WeTV",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/TencentVideo.png"
+        },
+        {
+            "name": "IQIYI",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/IQIYI.png"
+        },
+        {
+            "name": "YoukuVideo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/YoukuVideo.png"
+        },
+        {
+            "name": "MangoTV",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MangoTV.png"
+        },
+        {
+            "name": "HanjuTV",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/HanjuTV.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BilibiliPink.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BilibiliBlue.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BilibiliWhite.png"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BiliUniverse.png"
+        },
+        {
+            "name": "IQIYI_Ssports",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/IQIYI_Ssports.png"
+        },
+        {
+            "name": "Ezviz",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Ezviz.png"
+        },
+        {
+            "name": "XPTV",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/XPTV.png"
+        },
+        {
+            "name": "CMSPlayer",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/CMSPlayer.png"
+        },
+        {
+            "name": "SteveWatch",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/SteveWatch.png"
+        },
+        {
+            "name": "HawkPlayer",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/HawkPlayer.png"
+        },
+        {
+            "name": "APTV",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/APTV.png"
+        },
+        {
+            "name": "Fileball",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Fileball.png"
+        },
+        {
+            "name": "Filebar",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Filebar.png"
+        },
+        {
+            "name": "Infuse",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Infuse.png"
+        },
+        {
+            "name": "VidHub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/VidHub-01.png"
+        },
+        {
+            "name": "VidHub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/VidHub-02.png"
+        },
+        {
+            "name": "Filmly",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/NeteaseFilmly-01.png"
+        },
+        {
+            "name": "Filmly Baomihua",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/NeteaseFilmly-02.png"
+        },
+        {
+            "name": "Filmly Baomihua",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/NeteaseFilmly-03.png"
+        },
+        {
+            "name": "HamHub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/HamHub.png"
+        },
+        {
+            "name": "Forward",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Forward.png"
+        },
+        {
+            "name": "Reflix",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Reflix-01.png"
+        },
+        {
+            "name": "Reflix",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Reflix-02.png"
+        },
+        {
+            "name": "yybx",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/yybx.png"
+        },
+        {
+            "name": "yyb",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/yyb.png"
+        },
+        {
+            "name": "iemc",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iemc.png"
+        },
+        {
+            "name": "tvok",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/tvok.png"
+        },
+        {
+            "name": "Conflux",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Conflux.png"
+        },
+        {
+            "name": "DeePlayer",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/DeePlayer.png"
+        },
+        {
+            "name": "Lenna",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Lenna.png"
+        },
+        {
+            "name": "EplayerX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/EplayerX.png"
+        },
+        {
+            "name": "Cinemore",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Cinemore.png"
+        },
+        {
+            "name": "Hills",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Hills.png"
+        },
+        {
+            "name": "RodelPlayer Xiaohuan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/RodelPlayer.png"
+        },
+        {
+            "name": "MediaPlayer",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MediaPlayer.png"
+        },
+        {
+            "name": "MediaStorm",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MediaStorm.png"
+        },
+        {
+            "name": "StormCam",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/StormCam.png"
+        },
+        {
+            "name": "AList",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AList.png"
+        },
+        {
+            "name": "OpenList",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/OpenList.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Emby-01.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Emby-02.png"
+        },
+        {
+            "name": "Jellyfin",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Jellyfin-01.png"
+        },
+        {
+            "name": "Jellyfin",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Jellyfin-02.png"
+        },
+        {
+            "name": "Plex",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Plex-01.png"
+        },
+        {
+            "name": "Plex",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Plex-02.png"
+        },
+        {
+            "name": "Folo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Folo.png"
+        },
+        {
+            "name": "RSSHubRadar",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/RSSHubRadar.png"
+        },
+        {
+            "name": "LuckinCoffee Ruixing",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/LuckinCoffee.png"
+        },
+        {
+            "name": "Keep",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Keep.png"
+        },
+        {
+            "name": "IThome",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/IThome.png"
+        },
+        {
+            "name": "CoolApk Kuan",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/CoolApk.png"
+        },
+        {
+            "name": "BaiduTieba",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BaiduTieba.png"
+        },
+        {
+            "name": "Zhihu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Zhihu.png"
+        },
+        {
+            "name": "FanqieNovel",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/FanqieNovel.png"
+        },
+        {
+            "name": "Fanshu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Fanshu.png"
+        },
+        {
+            "name": "Shenmezhidemai",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Zhidemai.png"
+        },
+        {
+            "name": "ColorfulCloudsWeather Caiyun",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ColorfulCloudsWeather.png"
+        },
+        {
+            "name": "ColorfulCloudsWeatherPro Caiyun",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ColorfulCloudsWeatherPro.png"
+        },
+        {
+            "name": "Memento",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Memento-Light.png"
+        },
+        {
+            "name": "Memento",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Memento-Dark.png"
+        },
+        {
+            "name": "Notifyman",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Notifyman.png"
+        },
+        {
+            "name": "Raycast",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Raycast.png"
+        },
+        {
+            "name": "Userscripts",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Userscripts.png"
+        },
+        {
+            "name": "Tampermonkey",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Tampermonkey.png"
+        },
+        {
+            "name": "Scriptable",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Scriptable.png"
+        },
+        {
+            "name": "Scripting",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Scripting.png"
+        },
+        {
+            "name": "Currency",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Currency.png"
+        },
+        {
+            "name": "Bark",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Bark.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Apple.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Microsoft.png"
+        },
+        {
+            "name": "Windows",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Windows.png"
+        },
+        {
+            "name": "MicrosoftOffice365",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MicrosoftOffice365.png"
+        },
+        {
+            "name": "ChatGPT OpenAI",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ChatGPT.png"
+        },
+        {
+            "name": "Gemini",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GoogleGemini-01.png"
+        },
+        {
+            "name": "Gemini",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GoogleGemini-02.png"
+        },
+        {
+            "name": "MicrosoftCopilot",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MicrosoftCopilot.png"
+        },
+        {
+            "name": "Claude",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Claude.png"
+        },
+        {
+            "name": "Perplexity",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Perplexity.png"
+        },
+        {
+            "name": "Grok xAI",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Grok.png"
+        },
+        {
+            "name": "MoonshotAI",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MoonshotAI.png"
+        },
+        {
+            "name": "Kimi",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Kimi.png"
+        },
+        {
+            "name": "DeepSeek",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/DeepSeek.png"
+        },
+        {
+            "name": "HailuoAI",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/HailuoAI.png"
+        },
+        {
+            "name": "ZhipuChatGLM",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ZhipuChatGLM.png"
+        },
+        {
+            "name": "Tongyi Qwen",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Tongyi-01.png"
+        },
+        {
+            "name": "Tongyi Qwen",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Tongyi-02.png"
+        },
+        {
+            "name": "Tongyi Qwen",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Tongyi-03.png"
+        },
+        {
+            "name": "InternetExplorer",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/InternetExplorer.png"
+        },
+        {
+            "name": "Arc",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Arc.png"
+        },
+        {
+            "name": "Arc Search",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ArcSearch-01.png"
+        },
+        {
+            "name": "Arc Search",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/ArcSearch-02.png"
+        },
+        {
+            "name": "Genspark",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Genspark.png"
+        },
+        {
+            "name": "Quark",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Quark.png"
+        },
+        {
+            "name": "UC",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/UC.png"
+        },
+        {
+            "name": "Baidu",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Baidu.png"
+        },
+        {
+            "name": "QQBrowser",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/QQBrowser.png"
+        },
+        {
+            "name": "Alook",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Alook.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Google.png"
+        },
+        {
+            "name": "GoogleChrome",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GoogleChrome.png"
+        },
+        {
+            "name": "MicrosoftEdge",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MicrosoftEdge.png"
+        },
+        {
+            "name": "MicrosoftBingSearch",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/MicrosoftBingSearch.png"
+        },
+        {
+            "name": "Firefox",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Firefox.png"
+        },
+        {
+            "name": "Firefox",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/FirefoxNightly.png"
+        },
+        {
+            "name": "Firefox",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/FirefoxFocus.png"
+        },
+        {
+            "name": "Speedtest",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Speedtest.png"
+        },
+        {
+            "name": "Binance",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Binance.png"
+        },
+        {
+            "name": "OKX",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/OKX.png"
+        },
+        {
+            "name": "Bybit",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Bybit.png"
+        },
+        {
+            "name": "Meta",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Meta.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Instagram-01.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Instagram-02.png"
+        },
+        {
+            "name": "Threads",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Threads.png"
+        },
+        {
+            "name": "Messenger",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Messenger.png"
+        },
+        {
+            "name": "X Twitter",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/X-01.png"
+        },
+        {
+            "name": "X Twitter",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/X-02.png"
+        },
+        {
+            "name": "X Twitter",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Twitter-01.png"
+        },
+        {
+            "name": "X Twitter",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Twitter-02.png"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Reddit.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Telegram-01.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Telegram-02.png"
+        },
+        {
+            "name": "Swiftgram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Swiftgram.png"
+        },
+        {
+            "name": "iMe",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iMe.png"
+        },
+        {
+            "name": "Nicegram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Nicegram-01.png"
+        },
+        {
+            "name": "Nicegram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Nicegram-02.png"
+        },
+        {
+            "name": "Turrit",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Turrit.png"
+        },
+        {
+            "name": "Intent",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Intent.png"
+        },
+        {
+            "name": "Lingogram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Lingogram.png"
+        },
+        {
+            "name": "AyuGram",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/AyuGram.png"
+        },
+        {
+            "name": "Steam",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Steam.png"
+        },
+        {
+            "name": "EpicGames",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/EpicGames.png"
+        },
+        {
+            "name": "Xbox",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Xbox.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Spotify.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/YouTube.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Netflix-01.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Netflix-02.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Netflix-03.png"
+        },
+        {
+            "name": "PrimeVideo",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/PrimeVideo.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GitHub-01.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GitHub-02.png"
+        },
+        {
+            "name": "GitLab",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GitLab.png"
+        },
+        {
+            "name": "GitBlur",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/GitBlur.png"
+        },
+        {
+            "name": "Sub-Store",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Sub-Store.png"
+        },
+        {
+            "name": "Script Hub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Script-Hub-Light.png"
+        },
+        {
+            "name": "Script Hub",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Script-Hub-Dark.png"
+        },
+        {
+            "name": "BoxJs",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/BoxJs.png"
+        },
+        {
+            "name": "RevenueCat",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/RevenueCat.png"
+        },
+        {
+            "name": "iTunes",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/iTunes.png"
+        },
+        {
+            "name": "Files",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/Files.png"
+        },
+        {
+            "name": "FilesPreview",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/FilesPreview.png"
+        },
+        {
+            "name": "PowerToys",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/PowerToys.png"
+        },
+        {
+            "name": "UniGetUI",
+            "url": "https://loon.103516.xyz/Icon/App-Icon/UniGetUI.png"
+        }
+    ]
+}
